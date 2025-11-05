@@ -2,4 +2,6 @@
 
 flutterでオフラインアプリをクロスプラットフォーム開発してみる
 
-出先スマホでGithub Codespacesみ活用
+出先スマホでGithub Codespacesも活用
+
+Spck editorも活用？
